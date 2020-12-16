@@ -1,0 +1,8 @@
+nickfelix@nfnovo:~/docker-xeyes-gui$ xhost +local:[hostnameip]
+non-network local connections being added to access control list
+nickfelix@nfnovo:~/docker-xeyes-gui$ xhost +local:127.0.0.1
+non-network local connections being added to access control list
+nickfelix@nfnovo:~/docker-xeyes-gui$ xhost +local:0.0.0.0
+non-network local connections being added to access control list
+nickfelix@nfnovo:~/docker-xeyes-gui$ ./run.sh 
+
